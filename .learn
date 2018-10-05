@@ -5,4 +5,3 @@ languages:
   - JS
 resources: 
   - 0
-console.log("Hello,World!")
